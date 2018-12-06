@@ -1,6 +1,4 @@
 import csv
-#!usr/bin/python
-#list creatin
 hypo=['%','%','%','%','%','%'];
 
 with open('Training_examples.csv') as csv_file:
